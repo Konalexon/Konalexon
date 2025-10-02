@@ -38,7 +38,7 @@ I'm a beginner PHP/Laravel fullstack developer passionate about both backend and
   
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@SpartaKolka)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](konalexe1)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=tiktok&logoColor=white)](https://www.tiktok.com/@spartakoli)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@spartakoli)
 ---
 
 Feel free to reach out for collaborations, questions, or just to say hi!
