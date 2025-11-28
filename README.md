@@ -12,6 +12,20 @@ I'm a beginner PHP/Laravel fullstack developer passionate about both backend and
 
 ---
 
+## 🧾 Profile Overview
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=radical)
+
+## ⏱️ When I Code Most
+
+![Coding Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Konalexon&theme=radical)
+
+## 🧮 GitHub Score
+
+![GitHub Score](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konalexon&theme=radical)
+
+---
+
 ## 🚀 Technologies & Tools I Use
 
 <p>
@@ -40,28 +54,6 @@ I'm a beginner PHP/Laravel fullstack developer passionate about both backend and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
 </p>
-
----
-
-## 🧾 Profile Overview
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=radical)
-
-## ⏱️ When I Code Most
-
-![Coding Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Konalexon&theme=radical)
-
-## 🧮 GitHub Score
-
-![GitHub Score](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konalexon&theme=radical)
-
-## 🧠 Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🎮 Random Dev Joke
-
-![Joke](https://readme-jokes.vercel.app/api?theme=darcula)
 
 ---
 
