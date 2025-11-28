@@ -7,7 +7,7 @@ I'm a beginner PHP/Laravel fullstack developer passionate about both backend and
 ![Profile views](https://komarev.com/ghpvc/?username=Konalexon&style=flat-square&color=blue)
 
 ## 🎵 Now Playing (Spotify)
-[![Spotify](novatorem-inky-chi.vercel.app)](https://open.spotify.com/user/31iqukksptsnnmwlmoz22bv5jbhi)
+[![Spotify](https://novatorem-inky-chi.vercel.app/api/spotify)](https://open.spotify.com/user/31iqukksptsnnmwlmoz22bv5jbhi)
 
 ---
 
