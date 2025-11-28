@@ -1,33 +1,44 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=500&color=7DF9FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Konalexon;PHP%2FLaravel+Fullstack+Developer;Always+learning+%26+building+cool+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Konalexon;PHP%2FLaravel+Fullstack+Developer;Always+learning+%26+building+cool+stuff" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  I'm a beginner PHP/Laravel fullstack developer passionate about both backend and frontend development.<br/>
-  Always eager to learn new technologies and improve my skills while building real-world applications.
+  <samp>
+    Beginner PHP/Laravel fullstack dev who loves both backend logic and frontend polish.<br/>
+    Building real-world apps, breaking things, fixing them better, and leveling up every day.
+  </samp>
 </p>
 
 ---
 
 ## 🕵🏻 How many people checked my profile
-![Profile views](https://komarev.com/ghpvc/?username=Konalexon&style=flat-square&color=7DF9FF)
 
-## 🎵 Now Playing (Spotify)
-[![Spotify](https://novatorem-inky-chi.vercel.app/api/spotify)](https://open.spotify.com/user/31iqukksptsnnmwlmoz22bv5jbhi)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Konalexon&style=flat-square&color=7DF9FF" alt="Profile views" />
+</p>
+
+---
+
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31iqukksptsnnmwlmoz22bv5jbhi">
+    <img src="https://novatorem-inky-chi.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
 ## 🧾 Profile Overview
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=tokyonight" alt="Profile summary" />
+</p>
 
-## ⏱️ When I Code Most
-
-![Coding Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Konalexon&theme=tokyonight)
-
-## 🧮 GitHub Score
-
-![GitHub Score](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konalexon&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Konalexon&theme=tokyonight" alt="Coding time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konalexon&theme=tokyonight" alt="GitHub stats card" />
+</p>
 
 ---
 
@@ -44,13 +55,15 @@
 
 ## 🧰 Featured Tech Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/Vue.js-41B883?logo=vue.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-41B883?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+</p>
 
 ## 🌱 Currently Learning
 
@@ -63,36 +76,48 @@
 
 ---
 
-## 📈 Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konalexon&layout=compact&theme=tokyonight&hide_border=true)
+## 📈 Stats & Activity
 
-## 📊 GitHub Contributions
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konalexon&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
+</p>
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Konalexon&theme=discord&no-bg=true&no-frame=true&row=1&column=6)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
 
-## 🔥 Streak & Activity
-[![GitHub Streak](https://streak-stats.demolab.com?user=Konalexon&theme=tokyonight&hide_border=true&ring=7DF9FF&fire=FF6EC7&currStreakLabel=7DF9FF)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Konalexon&theme=discord&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
 
-## 📊 Activity Graph
-[![Konalexon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Konalexon&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Konalexon&theme=tokyonight&hide_border=true&ring=7DF9FF&fire=FF6EC7&currStreakLabel=7DF9FF" alt="GitHub Streak" />
+  </a>
+</p>
 
----
-
-## 📌 Featured Projects
-
-[![Portfolio CMS](https://github-readme-stats.vercel.app/api/pin/?username=Konalexon&repo=portfolio-cms&theme=tokyonight&hide_border=true)](https://github.com/Konalexon/portfolio-cms)
-[![SyncStore Hub](https://github-readme-stats.vercel.app/api/pin/?username=Konalexon&repo=SyncStore-Hub&theme=tokyonight&hide_border=true)](https://github.com/Konalexon/SyncStore-Hub)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konalexon&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+</p>
 
 ---
 
 ## 💬 Connect with me
-  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@SpartaKolka)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discordapp.com/users/konalexe1)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@spartakoli)
+
+<p align="center">
+  <a href="https://www.youtube.com/@SpartaKolka">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
+  <a href="https://discordapp.com/users/konalexe1">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
+  <a href="https://www.tiktok.com/@spartakoli">
+    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok" />
+  </a>
+</p>
 
 ---
 
-Feel free to reach out for collaborations, questions, or just to say hi!
+<p align="center">
+  <samp>Feel free to reach out for collaborations, questions, or just to say hi!</samp>
+</p>
