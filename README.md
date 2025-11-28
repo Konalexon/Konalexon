@@ -21,7 +21,7 @@ I'm a beginner PHP/Laravel fullstack developer passionate about both backend and
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konalexon&layout=compact)
 
 ## 📊 GitHub Contributions
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true&theme=dark)](https://github.com/Konalexon)
 
 ## 🌱 Currently Learning
 
