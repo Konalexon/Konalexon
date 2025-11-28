@@ -4,9 +4,13 @@
 
 <p align="center">
   <samp>
-    Beginner PHP/Laravel fullstack dev who loves both backend logic and frontend polish.<br/>
-    Building real-world apps, breaking things, fixing them better, and leveling up every day.
+    Beginner PHP/Laravel fullstack dev who loves clean backend logic and shiny frontends.<br/>
+    Building real-world apps, breaking things on purpose, fixing them better, and leveling up every day.
   </samp>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Konalexon/Konalexon/raw/main/assets/neon-divider.gif" alt="divider" width="60%" />
 </p>
 
 ---
@@ -15,16 +19,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Konalexon&style=flat-square&color=7DF9FF" alt="Profile views" />
-</p>
-
----
-
-## 🎵 Now Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31iqukksptsnnmwlmoz22bv5jbhi">
-    <img src="https://novatorem-inky-chi.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
 </p>
 
 ---
