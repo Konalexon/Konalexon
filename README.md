@@ -18,7 +18,7 @@
 ## 🕵🏻 How many people checked my profile
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Konalexon&style=flat-square&color=7DF9FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Konalexon&label=PROFILE%20VIEWS&color=00FFD5&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
