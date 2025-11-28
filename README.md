@@ -3,6 +3,7 @@
 I'm a beginner PHP/Laravel fullstack developer passionate about both backend and frontend development. Always eager to learn new technologies and improve my skills while building real-world applications.
 
 ---
+
 ## 🕵🏻 How many people checked my profile
 ![Profile views](https://komarev.com/ghpvc/?username=Konalexon&style=flat-square&color=blue)
 
@@ -42,6 +43,28 @@ I'm a beginner PHP/Laravel fullstack developer passionate about both backend and
 
 ---
 
+## 🧾 Profile Overview
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=radical)
+
+## ⏱️ When I Code Most
+
+![Coding Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Konalexon&theme=radical)
+
+## 🧮 GitHub Score
+
+![GitHub Score](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konalexon&theme=radical)
+
+## 🧠 Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🎮 Random Dev Joke
+
+![Joke](https://readme-jokes.vercel.app/api?theme=darcula)
+
+---
+
 ## 📈 Most Used Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konalexon&layout=compact)
 
@@ -56,6 +79,13 @@ I'm a beginner PHP/Laravel fullstack developer passionate about both backend and
 
 ## 📊 Activity Graph
 [![Konalexon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Konalexon&theme=github-compact&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📌 Featured Projects
+
+[![Portfolio CMS](https://github-readme-stats.vercel.app/api/pin/?username=Konalexon&repo=portfolio-cms&theme=radical)](https://github.com/Konalexon/portfolio-cms)
+[![SyncStore Hub](https://github-readme-stats.vercel.app/api/pin/?username=Konalexon&repo=SyncStore-Hub&theme=radical)](https://github.com/Konalexon/SyncStore-Hub)
 
 ---
 
