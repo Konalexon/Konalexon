@@ -14,13 +14,13 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🕵🏻 How many people checked my profile
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Konalexon&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile views" />
 </p>
-
+</p>
 ---
 
 ## 🧾 Profile Overview
