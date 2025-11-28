@@ -15,7 +15,7 @@
 
 ---
 
-## 🕵🏻 How many people checked my profile
+<h2 align="center">🕵🏻 How many people checked my profile</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Konalexon&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile views" />
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧾 Profile Overview
+<h2 align="center">🧾 Profile Overview</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=tokyonight" alt="Profile summary" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 🚀 Technologies & Tools I Use
+<h2 align="center">🚀 Technologies &amp; Tools I Use</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP" />
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
 </p>
 
-## 🧰 Featured Tech Stack
+<h2 align="center">🧰 Featured Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
 </p>
 
-## 🌱 Currently Learning
+<h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="45" alt="Laravel" />
@@ -70,7 +70,7 @@
 
 ---
 
-## 📈 Stats & Activity
+<h2 align="center">📈 Stats &amp; Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konalexon&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
@@ -96,7 +96,7 @@
 
 ---
 
-## 💬 Connect with me
+<h2 align="center">💬 Connect with me</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@SpartaKolka">
