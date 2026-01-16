@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Konalexon;PHP%2FLaravel+Full-Stack+Developer;Building+apps+with+clean+backend+%26+slick+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=820&lines=Hello%2C+I'm+Konalexon;PHP%2FLaravel+Full-Stack+Developer;Building+apps+with+clean+backend+%26+slick+UI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
   <samp>
     ✅ Laravel (MVC, Eloquent, migrations/seeders, validation, queues, auth)<br/>
     ✅ REST APIs + MySQL • clean architecture mindset • Git workflow<br/>
-    ✅ Frontend: Vue / React basics • Vite • UI components<br/>
+    ✅ Frontend: Vue / React • Vite • UI components<br/>
     ✅ Dockerized local setups • readable READMEs • shipping features
   </samp>
 </p>
@@ -29,21 +29,15 @@
 <h2 align="center">🔥 Top Projects</h2>
 
 <p align="center">
-  <samp>
-    Below are the projects that best represent my skills. If you’re recruiting, start here 👇
-  </samp>
+  <samp>Start here 👇 These repos represent my skills best.</samp>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Konalexon/EcoLogix"><b>EcoLogix</b></a> — Laravel app with Docker/Vite setup, migrations & seeders, real-world structure<br/>
-  <a href="https://github.com/Konalexon/SyncStore-Hub"><b>SyncStore-Hub</b></a> — full-stack product idea (warehouse/inventory direction) with roadmap & vision<br/>
-  <a href="https://github.com/Konalexon/VerbaMind"><b>VerbaMind</b></a> — smaller project focused on UX + clear documentation
-</p>
-
-<p align="center">
-  <samp>
-    Tip: I keep READMEs practical — how to run, what it solves, and what’s next.
-  </samp>
+  <a href="https://github.com/Konalexon/custom-label"><b>custom-label</b></a> — custom tooling / automation project<br/>
+  <a href="https://github.com/Konalexon/TFT-Helper"><b>tfthelper</b></a> — desktop companion app for TFT (Electron)<br/>
+  <a href="https://github.com/Konalexon/EcoLogix"><b>EcoLogix</b></a> — Laravel app with Docker/Vite + migrations/seeders<br/>
+  <a href="https://github.com/Konalexon/VerbaMind"><b>VerbaMind</b></a> — Tauri + React desktop app with strong UX + docs<br/>
+  <a href="https://github.com/Konalexon/EvoWorld"><b>EvoWorld</b></a> — Phaser 3 browser game with deeper mechanics
 </p>
 
 ---
@@ -63,20 +57,19 @@
 
 ---
 
-<h2 align="center">📌 Quick Proof (tiny flex, no cringe)</h2>
+<h2 align="center">📌 Quick Proof</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=tokyonight" alt="Profile summary" />
 </p>
 
+<!-- If GitHub Stats sometimes disappears: add &cache_seconds and a version param -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Konalexon&theme=tokyonight&hide_border=true&ring=7DF9FF&fire=FF6EC7&currStreakLabel=7DF9FF" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Konalexon&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak" />
 </p>
 
 ---
@@ -84,6 +77,9 @@
 <h2 align="center">💬 Connect</h2>
 
 <p align="center">
+  <a href="mailto:konalinio@gmail.com">
+    <img src="https://img.shields.io/badge/Email-konalinio%40gmail.com-000000?style=for-the-badge" alt="Email" />
+  </a>
   <a href="https://www.youtube.com/@SpartaKolka">
     <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
   </a>
@@ -98,6 +94,6 @@
 <p align="center">
   <samp>
     Open to: <b>Junior PHP/Laravel</b> • <b>Full-stack</b> • internships<br/>
-    If you like my work — message me and I’ll reply fast.
+    Email: <b>konalinio@gmail.com</b>
   </samp>
 </p>
