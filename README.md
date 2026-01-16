@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Konalexon;PHP%2FLaravel+Fullstack+Developer;Always+learning+%26+building+cool+stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2600&pause=700&color=7DF9FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Konalexon;PHP%2FLaravel+Full-Stack+Developer;Building+apps+with+clean+backend+%26+slick+UI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <samp>
-    Beginner PHP/Laravel fullstack dev who loves clean backend logic and shiny frontends.<br/>
-    Building real-world apps, breaking things on purpose, fixing them better, and leveling up every day.
+    PHP/Laravel full-stack developer focused on <b>clean backend logic</b> and <b>polished UI</b>.<br/>
+    I build real projects end-to-end: auth, REST APIs, DB design/migrations, Docker setup, and frontends in Vue/React.
   </samp>
 </p>
 
@@ -13,75 +13,64 @@
   <img src="https://github.com/Konalexon/Konalexon/raw/main/assets/neon-divider.gif" alt="divider" width="60%" />
 </p>
 
----
-
-<h2 align="center">🕵🏻 How many people checked my profile</h2>
+<h2 align="center">🧠 What I bring</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Konalexon&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile views" />
+  <samp>
+    ✅ Laravel (MVC, Eloquent, migrations/seeders, validation, queues, auth)<br/>
+    ✅ REST APIs + MySQL • clean architecture mindset • Git workflow<br/>
+    ✅ Frontend: Vue / React basics • Vite • UI components<br/>
+    ✅ Dockerized local setups • readable READMEs • shipping features
+  </samp>
 </p>
 
 ---
 
-<h2 align="center">🧾 Profile Overview</h2>
+<h2 align="center">🔥 Top Projects</h2>
+
+<p align="center">
+  <samp>
+    Below are the projects that best represent my skills. If you’re recruiting, start here 👇
+  </samp>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Konalexon/EcoLogix"><b>EcoLogix</b></a> — Laravel app with Docker/Vite setup, migrations & seeders, real-world structure<br/>
+  <a href="https://github.com/Konalexon/SyncStore-Hub"><b>SyncStore-Hub</b></a> — full-stack product idea (warehouse/inventory direction) with roadmap & vision<br/>
+  <a href="https://github.com/Konalexon/VerbaMind"><b>VerbaMind</b></a> — smaller project focused on UX + clear documentation
+</p>
+
+<p align="center">
+  <samp>
+    Tip: I keep READMEs practical — how to run, what it solves, and what’s next.
+  </samp>
+</p>
+
+---
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-41B883?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+</p>
+
+---
+
+<h2 align="center">📌 Quick Proof (tiny flex, no cringe)</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=tokyonight" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Konalexon&theme=tokyonight" alt="Coding time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Konalexon&theme=tokyonight" alt="GitHub stats card" />
-</p>
-
----
-
-<h2 align="center">🚀 Technologies &amp; Tools I Use</h2>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="45" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
-</p>
-
-<h2 align="center">🧰 Featured Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-41B883?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-</p>
-
-<h2 align="center">🌱 Currently Learning</h2>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="45" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP" />
-</p>
-
----
-
-<h2 align="center">📈 Stats &amp; Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Konalexon&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Konalexon&theme=discord&no-bg=true&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -90,13 +79,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Konalexon&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
-
 ---
 
-<h2 align="center">💬 Connect with me</h2>
+<h2 align="center">💬 Connect</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@SpartaKolka">
@@ -110,8 +95,9 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <samp>Feel free to reach out for collaborations, questions, or just to say hi!</samp>
+  <samp>
+    Open to: <b>Junior PHP/Laravel</b> • <b>Full-stack</b> • internships<br/>
+    If you like my work — message me and I’ll reply fast.
+  </samp>
 </p>
