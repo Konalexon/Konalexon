@@ -33,11 +33,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Konalexon/custom-label"><b>custom-label</b></a> — custom tooling / automation project<br/>
-  <a href="https://github.com/Konalexon/TFT-Helper"><b>tfthelper</b></a> — desktop companion app for TFT (Electron)<br/>
+  <a href="https://github.com/Konalexon/TFT-Helper"><b>TFT-Helper</b></a> — Electron companion app for TFT<br/>
+  <img src="https://img.shields.io/github/last-commit/Konalexon/TFT-Helper?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Konalexon/TFT-Helper?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Konalexon/TFT-Helper?style=for-the-badge" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Konalexon/EcoLogix"><b>EcoLogix</b></a> — Laravel app with Docker/Vite + migrations/seeders<br/>
-  <a href="https://github.com/Konalexon/VerbaMind"><b>VerbaMind</b></a> — Tauri + React desktop app with strong UX + docs<br/>
-  <a href="https://github.com/Konalexon/EvoWorld"><b>EvoWorld</b></a> — Phaser 3 browser game with deeper mechanics
+  <img src="https://img.shields.io/github/last-commit/Konalexon/EcoLogix?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Konalexon/EcoLogix?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Konalexon/EcoLogix?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Konalexon/VerbaMind"><b>VerbaMind</b></a> — Tauri + React desktop app (AI speech generator)<br/>
+  <img src="https://img.shields.io/github/last-commit/Konalexon/VerbaMind?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Konalexon/VerbaMind?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Konalexon/VerbaMind?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Konalexon/EvoWorld"><b>EvoWorld</b></a> — Phaser 3 browser survival game with deeper mechanics<br/>
+  <img src="https://img.shields.io/github/last-commit/Konalexon/EvoWorld?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Konalexon/EvoWorld?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/Konalexon/EvoWorld?style=for-the-badge" />
 </p>
 
 ---
@@ -45,31 +65,14 @@
 <h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-41B883?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
-</p>
-
----
-
-<h2 align="center">📌 Quick Proof</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Konalexon&theme=tokyonight" alt="Profile summary" />
-</p>
-
-<!-- If GitHub Stats sometimes disappears: add &cache_seconds and a version param -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Konalexon&show_icons=true&rank_icon=percentile&theme=tokyonight&hide_border=true&cache_seconds=21600&v=2" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Konalexon&theme=tokyonight&hide_border=true&v=2" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vue.js-41B883?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -78,16 +81,16 @@
 
 <p align="center">
   <a href="mailto:konalinio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-konalinio%40gmail.com-000000?style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-konalinio%40gmail.com-000000?style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/@SpartaKolka">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://discordapp.com/users/konalexe1">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.tiktok.com/@spartakoli">
-    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
